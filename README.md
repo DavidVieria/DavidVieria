@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hey, I'm David Vieira👋
+
+🧑🏻‍💻 About Me
+ - I am a portuguese computer engineering Student.
+ - 19y
+ - ISEP - Licenciatura em Engenharia Informática (2nd year)
+
 
 <!--
 **DavidVieria/DavidVieria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
