@@ -5,7 +5,8 @@
  - 19y
  - ISEP - Licenciatura em Engenharia Informática (2nd year)
 
-
+💬 Reach Out
+ - 1230487@isep.ipp.pt
 <!--
 **DavidVieria/DavidVieria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
