@@ -2,6 +2,7 @@
 
 🧑🏻‍💻 About Me
  - I am a portuguese computer engineering Student.
+ - Guimarães || Porto
  - 19y
  - ISEP - Licenciatura em Engenharia Informática (2nd year)
 
