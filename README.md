@@ -1,13 +1,29 @@
 ## Hey, I'm David Vieira👋
 
 🧑🏻‍💻 About Me
- - I am a portuguese computer engineering Student.
+ - I am a Portuguese Computer Engineering student.
  - Guimarães / Porto
  - 19y
- - ISEP - Licenciatura em Engenharia Informática (2nd year)
+ - ISEP - Bachelor in Computer Engineering (2nd year)
 
 💬 Reach Out
- - 1230487@isep.ipp.pt
+
+<div align="center" style="display: flex; justify-content: center; gap: 30px;">
+  <a href="https://www.linkedin.com/in/david-vieira-7591b7357/">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-David%20Vieira-blue?style=flat-square&logo=linkedin" style="height:20px;">
+  </a>
+  <a href="mailto:1230487@isep.ipp.pt">
+    <img src="https://img.shields.io/badge/Gmail-1230487@isep.ipp.pt-D3D3D3?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Email Badge" style="height:20px;">
+  </a>
+</div>
+
+
+
+
+
+
+
+
 <!--
 **DavidVieria/DavidVieria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
