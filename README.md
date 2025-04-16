@@ -9,17 +9,12 @@
 <br>
 💬 Reach Out
 
-<div align="center" style="display: flex; justify-content: center; gap: 30px;">
+<p align="center">
   <a href="https://www.linkedin.com/in/david-vieira-7591b7357/">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-David%20Vieira-blue?style=flat-square&logo=linkedin" style="height:20px;">
-  </a>
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-David%20Vieira-blue?style=flat-square&logo=linkedin" style="height:20px;"></a>
   <a href="mailto:1230487@isep.ipp.pt">
-    <img src="https://img.shields.io/badge/Gmail-1230487@isep.ipp.pt-D3D3D3?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Email Badge" style="height:20px;">
-  </a>
-</div>
-
-
-
+    <img src="https://img.shields.io/badge/Gmail-1230487@isep.ipp.pt-D3D3D3?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Email Badge" style="height:20px;"></a>
+</p>
 
 
 
