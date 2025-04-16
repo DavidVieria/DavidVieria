@@ -6,6 +6,7 @@
  - 19y
  - ISEP - Bachelor in Computer Engineering (2nd year)
 
+<br>
 💬 Reach Out
 
 <div align="center" style="display: flex; justify-content: center; gap: 30px;">
