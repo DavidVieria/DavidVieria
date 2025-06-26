@@ -3,7 +3,7 @@
 🧑🏻‍💻 About Me
  - I am a Portuguese Computer Engineering student.
  - Guimarães / Porto
- - 19y
+ - 20y
  - ISEP - Bachelor in Computer Engineering (2nd year)
 
 <br>
