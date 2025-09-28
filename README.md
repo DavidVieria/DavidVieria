@@ -4,7 +4,7 @@
  - I am a Portuguese Computer Engineering student.
  - Guimarães / Porto
  - 20y
- - ISEP - Bachelor in Computer Engineering (2nd year)
+ - ISEP - Bachelor in Computer Engineering (3rd year)
 
 <br>
 💬 Reach Out
