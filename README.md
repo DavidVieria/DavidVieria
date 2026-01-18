@@ -1,10 +1,9 @@
 ## Hey, I'm David Vieira👋
 
 🧑🏻‍💻 About Me
- - I am a Portuguese Computer Engineering student.
+ - I am a Portuguese Software Engineering student.
  - Guimarães / Porto
  - 20y
- - ISEP - Bachelor in Computer Engineering (3rd year)
 
 <br>
 💬 Reach Out
