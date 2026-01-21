@@ -6,6 +6,51 @@
  - 20y
 
 <br>
+🛠 Tech Stack
+
+- 💻 Languages &nbsp;
+  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java)
+  ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c)
+  ![C#](https://img.shields.io/badge/-C%23-333333?style=flat&logo=csharp)
+  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+  ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=sqlite)
+  ![PL/SQL](https://img.shields.io/badge/-PL%2FSQL-333333?style=flat&logo=oracle)
+  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
+  ![Assembly](https://img.shields.io/badge/-Assembly-333333?style=flat&logo=assemblyscript)
+  ![Prolog](https://img.shields.io/badge/-Prolog-333333?style=flat&logo=prolog)
+
+- 📚 Frameworks, Libraries & DBs &nbsp;
+  ![.NET](https://img.shields.io/badge/-.NET-333333?style=flat&logo=dotnet)
+  ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular)
+  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=nodedotjs)
+  ![Three.js](https://img.shields.io/badge/-Three.js-333333?style=flat&logo=three.js)
+  ![JavaFX](https://img.shields.io/badge/-JavaFX-333333?style=flat&logo=java)
+  ![WebGL](https://img.shields.io/badge/-WebGL-333333?style=flat&logo=webgl)
+  ![ANTLR](https://img.shields.io/badge/-ANTLR-333333?style=flat)
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+  ![Entity Framework](https://img.shields.io/badge/-Entity%20Framework-333333?style=flat&logo=dotnet)
+
+- ⚙️ Tools & DevOps &nbsp;
+  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+  ![BitBucket](https://img.shields.io/badge/-BitBucket-333333?style=flat&logo=bitbucket)
+  ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+  ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
+  ![Jira](https://img.shields.io/badge/-Jira-333333?style=flat&logo=jira)
+  ![Maven](https://img.shields.io/badge/-Maven-333333?style=flat&logo=apachemaven)
+  ![Visual Paradigm](https://img.shields.io/badge/-Visual%20Paradigm-333333?style=flat)
+  ![Cisco Packet Tracer](https://img.shields.io/badge/-Cisco%20Packet%20Tracer-333333?style=flat&logo=cisco)
+  ![MongoDB Compass](https://img.shields.io/badge/-MongoDB%20Compass-333333?style=flat&logo=mongodb)
+
+- 🔧 IDEs &nbsp;
+  ![IntelliJ Idea](https://img.shields.io/badge/-IntelliJ%20Idea-333333?style=flat&logo=intellijidea)
+  ![Rider](https://img.shields.io/badge/-Rider-333333?style=flat&logo=rider&logoColor=white)
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code)
+
+<br>
 💬 Reach Out
 
 <p align="center">
