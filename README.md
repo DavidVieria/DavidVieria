@@ -8,7 +8,7 @@
 <br>
 🛠 Tech Stack
 
-- 💻 Languages &nbsp;
+- 💻 Languages <br> &nbsp;
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java)
   ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c)
   ![C#](https://img.shields.io/badge/-C%23-333333?style=flat&logo=csharp)
@@ -22,7 +22,7 @@
   ![Assembly](https://img.shields.io/badge/-Assembly-333333?style=flat&logo=assemblyscript)
   ![Prolog](https://img.shields.io/badge/-Prolog-333333?style=flat&logo=prolog)
 
-- 📚 Frameworks, Libraries & DBs &nbsp;
+- 📚 Frameworks, Libraries & DBs <br> &nbsp;
   ![.NET](https://img.shields.io/badge/-.NET-333333?style=flat&logo=dotnet)
   ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=nodedotjs)
@@ -33,7 +33,7 @@
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
   ![Entity Framework](https://img.shields.io/badge/-Entity%20Framework-333333?style=flat&logo=dotnet)
 
-- ⚙️ Tools & DevOps &nbsp;
+- ⚙️ Tools & DevOps <br> &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![BitBucket](https://img.shields.io/badge/-BitBucket-333333?style=flat&logo=bitbucket)
@@ -45,7 +45,7 @@
   ![Cisco Packet Tracer](https://img.shields.io/badge/-Cisco%20Packet%20Tracer-333333?style=flat&logo=cisco)
   ![MongoDB Compass](https://img.shields.io/badge/-MongoDB%20Compass-333333?style=flat&logo=mongodb)
 
-- 🔧 IDEs &nbsp;
+- 🔧 IDEs <br> &nbsp;
   ![IntelliJ Idea](https://img.shields.io/badge/-IntelliJ%20Idea-333333?style=flat&logo=intellijidea)
   ![Rider](https://img.shields.io/badge/-Rider-333333?style=flat&logo=rider&logoColor=white)
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code)
