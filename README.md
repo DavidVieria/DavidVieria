@@ -54,7 +54,7 @@
 💬 Reach Out
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/david-vieira-7591b7357/">
+  <a href="https://www.linkedin.com/in/david-rm-vieira/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-David%20Vieira-D3D3D3?style=flat-square&logo=linkedin&labelColor=0A66C2" style="height:20px;"></a>
   <a href="mailto:david.r.mendes.vieira@gmail.com">
     <img src="https://img.shields.io/badge/Email-david.r.mendes.vieira@gmail.com-D3D3D3?style=flat-square&logo=gmail&logoColor=white&labelColor=B32D2D" alt="Email Badge" style="height:20px;"></a>
