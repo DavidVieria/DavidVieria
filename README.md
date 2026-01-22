@@ -1,9 +1,10 @@
 ## Hey, I'm David Vieira👋
 
 🧑🏻‍💻 About Me
- - I am a Portuguese Software Engineering student.
- - Guimarães / Porto
- - 20y
+ - 🎓 I am a Software Engineering student at ISEP (3rd year).
+ - 🔭 Focus: Scalable Digital Solutions, System Architecture and Cloud/Infrastructure.
+ - 💼 Current Career Goal: Seeking a curricular internship for my final semester.
+ - 📍 Based in: Guimarães / Porto, Portugal.
 
 <br>
 🛠 Tech Stack
