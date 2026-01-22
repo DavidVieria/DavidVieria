@@ -21,6 +21,7 @@
   ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
   ![Assembly](https://img.shields.io/badge/-Assembly-333333?style=flat&logo=assemblyscript)
   ![Prolog](https://img.shields.io/badge/-Prolog-333333?style=flat&logo=prolog)
+  ![VB.NET](https://img.shields.io/badge/-VB.NET-333333?style=flat&logo=dotnet&logoColor=purple)
 
 - 📚 Frameworks, Libraries & DBs <br> &nbsp;
   ![.NET](https://img.shields.io/badge/-.NET-333333?style=flat&logo=dotnet)
