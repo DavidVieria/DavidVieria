@@ -36,8 +36,7 @@
   ![WebGL](https://img.shields.io/badge/-WebGL-333333?style=flat&logo=webgl)
   ![ANTLR](https://img.shields.io/badge/-ANTLR-333333?style=flat)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
-  ![Entity Framework](https://img.shields.io/badge/-Entity%20Framework-333333?style=flat&logo=dotnet)
-
+  ![Entity Framework](https://img.shields.io/badge/-Entity%20Framework-333333?style=flat&logo=nuget&logoColor=white)
 
 - ⚙️ Tools & DevOps <br> &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
