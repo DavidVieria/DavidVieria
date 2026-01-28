@@ -52,7 +52,7 @@
   ![Cisco Packet Tracer](https://img.shields.io/badge/-Cisco%20Packet%20Tracer-333333?style=flat&logo=cisco)
   ![MongoDB Compass](https://img.shields.io/badge/-MongoDB%20Compass-333333?style=flat&logo=mongodb)
 
-- 🔧 IDEs <br> &nbsp;
+- 🔧 IDEs & Editors <br> &nbsp;
   ![IntelliJ Idea](https://img.shields.io/badge/-IntelliJ%20Idea-333333?style=flat&logo=intellijidea)
   ![Rider](https://img.shields.io/badge/-Rider-333333?style=flat&logo=rider&logoColor=white)
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code)
