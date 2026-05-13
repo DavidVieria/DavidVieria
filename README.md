@@ -1,9 +1,9 @@
 ## Hey, I'm David Vieira👋
 
 🧑🏻‍💻 About Me
- - 🎓 I am a Software Engineering student at ISEP (3rd year).
+ - 🎓 I am an Informatics Engineering Student at ISEP (3rd year).
  - 🔭 Focus: Scalable Digital Solutions, System Architecture and Cloud/Infrastructure.
- - 💼 Current Career Goal: Seeking a curricular internship for my final semester.
+ - 💼 Currently working as a Software Engineering Intern at Claranet Portugal.
  - 📍 Based in: Guimarães / Porto, Portugal.
 
 
